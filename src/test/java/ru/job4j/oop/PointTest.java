@@ -11,7 +11,7 @@ public class PointTest {
         Point a = new Point(0, 0, 0);
         Point b = new Point(4, 0, 0);
         double rsl = a.distance3d(b);
-        Assert.assertEquals(5, rsl, 0.01);
+        Assert.assertEquals(4, rsl, 0.01);
     }
 
     @Test

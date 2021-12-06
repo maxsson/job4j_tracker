@@ -34,7 +34,7 @@ public class Calculator {
         int rsl3 = calculator.dvide(5);
         System.out.println(rsl3);
         int rsl4 = calculator.sumAllOperation(5);
-        System.out.println(rsl4 );
+        System.out.println(rsl4);
 
     }
 }
