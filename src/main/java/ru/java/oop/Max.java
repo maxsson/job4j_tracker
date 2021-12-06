@@ -1,4 +1,4 @@
-package ru.job4j.oop;
+package ru.java.oop;
 
 public class Max {
     public static int max(int left, int right) {

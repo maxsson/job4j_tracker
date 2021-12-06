@@ -1,4 +1,4 @@
-package ru.job4j.oop;
+package ru.java.oop;
 
 public class Calculator {
     private static int x = 5;
